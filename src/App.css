@@ -1,0 +1,33 @@
+.app-container{
+  display: flex;
+}
+
+
+.Content{
+ width: 100%;
+}
+.sidebar{
+  min-height: 500px;
+}
+
+.text-post{
+  margin: 20px 50px;
+}
+
+.hashtag{
+  margin: 0px 3px;
+}
+
+.create-post{
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+
+.reactions{
+  margin: 15px 0 0 0;
+}
+
+.welcome-msg {
+  margin: 100px;
+}
